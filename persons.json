@@ -1,0 +1,217 @@
+[
+    {
+        "firstname": "Mike",
+        "lastname": "Schiller",
+        "address": [
+            {
+                "street": "Mauerstraße"
+            },
+            {
+                "zip": "10117"
+            },
+            {
+                "city": " Berlin"
+            }
+        ],
+        "friend": [
+            {
+                "firstname": "Tom",
+                "lastname": "",
+                "address": ""
+            }
+        ]
+    },
+    {
+        "firstname": "Marc",
+        "lastname": "Schön",
+        "address": [
+            {
+                "street": "Odeonsplatz",
+                "zip": "81675",
+                "city": "München"
+            }
+        ],
+        "friend": [
+            {
+                "firstname": "Tina",
+                "lastname": "",
+                "address": ""
+            }
+        ]
+    },
+    {
+        "firstname": "Tina",
+        "lastname": "Wünsch",
+        "address": [
+            {
+                "street": "Schloßstr",
+                "zip": "81675",
+                "city": "München"
+            }
+        ],
+        "friend": [
+            {
+                "firstname": "Tom",
+                "lastname": "",
+                "address": ""
+            },
+            {
+                "firstname": "Marc",
+                "lastname": "",
+                "address": ""
+            },
+            {
+                "firstname": "Marta",
+                "lastname": "",
+                "address": ""
+            }
+        ]
+    },
+    {
+        "firstname": "Marta",
+        "lastname": "Grimm",
+        "address": [
+            {
+                "street": "Königplatz",
+                "zip": "70372",
+                "city": "Stuttgart"
+            }
+        ],
+        "friend": [
+            {
+                "firstname": "Tom",
+                "lastname": "",
+                "address": ""
+            },
+            {
+                "firstname": "Marc",
+                "lastname": "",
+                "address": ""
+            },
+            {
+                "firstname": "Marta",
+                "lastname": "",
+                "address": ""
+            }
+        ]
+    },
+    {
+        "firstname": "Tom",
+        "lastname": "Wurm",
+        "address": [
+            {
+                "street": "Kurfürstendamm",
+                "zip": "10625",
+                "city": "Berlin"
+            },
+            {
+                "street": "Schloßstrass",
+                "zip": "81675",
+                "city": "Berlin"
+            }
+        ],
+        "friend": [
+            {
+                "firstname": "Tina",
+                "lastname": "",
+                "address": ""
+            },
+            {
+                "firstname": "Mike",
+                "lastname": "",
+                "address": ""
+            },
+            {
+                "firstname": "Marta",
+                "lastname": "",
+                "address": ""
+            }
+        ]
+    },
+    {
+        "firstname": "marion",
+        "lastname": "chavez",
+        "address": [
+            {
+                "street": "lindenweg 56",
+                "zip": "50827",
+                "city": "Köln"
+            }
+        ],
+        "friend": [
+            {
+                "firstname": "Roger",
+                "lastname": "",
+                "address": ""
+            },
+            {
+                "firstname": "Linda",
+                "lastname": "",
+                "address": ""
+            },
+            {
+                "firstname": "Laberto",
+                "lastname": "",
+                "address": ""
+            },
+            {
+                "firstname": "yogelzon",
+                "lastname": "",
+                "address": ""
+            },
+            {
+                "firstname": "marie",
+                "lastname": "",
+                "address": ""
+            }
+        ]
+    },
+    {
+        "firstname": "Alberto",
+        "lastname": "Mangeles",
+        "address": [
+            {
+                "street": "Am Rheinweg 45",
+                "zip": "50927",
+                "city": "Köln"
+            }
+        ],
+        "friend": [
+            {
+                "firstname": "michael",
+                "lastname": "",
+                "address": ""
+            },
+            {
+                "firstname": "Linda",
+                "lastname": "",
+                "address": ""
+            },
+            {
+                "firstname": "pablo",
+                "lastname": "",
+                "address": ""
+            },
+            {
+                "firstname": "yogelzon",
+                "lastname": "",
+                "address": ""
+            },
+            {
+                "firstname": "rogerio",
+                "lastname": "",
+                "address": ""
+            }
+        ]
+    },
+    {
+        "firstname": "Yogelzon",
+        "lastname": "",
+        "address": [
+            "Kornerstr 345"
+        ],
+        "friend": [
+            "pablo, alfonzo, mario"
+        ]
+    }
+]
